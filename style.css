@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass&family=Roboto:wght@400;700&display=swap");
+
+* {
+    box-sizing: border-box;
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    border: solid;
+    height: 90vh;
+    overflow: hidden;
+    margin: 10 20 10 20;
+    overflow: hidden;
+
+}
